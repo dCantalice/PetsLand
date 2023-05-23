@@ -1,0 +1,21 @@
+.botao-branco {
+    background: #ffffff;
+    border-radius: 5.5px;
+    padding: 12px 30px 12px 30px;
+    border-color: #ffffff;
+    color: black;
+    text-decoration-line: none;
+    font-size: 18px;
+    font-family: interregular;
+  }
+  
+  .botao-transparente {
+    background: transparent;
+    border-radius: 5.5px;
+    padding: 14px 30px 14px 30px;
+    border: 1px solid white;
+    color: white;
+    text-decoration-line: none;
+    font-size: 18px;
+    font-family: interregular;
+  }
